@@ -9,7 +9,6 @@ const solution = (a, k) => {
   return [...copy.splice(copy.length - movement), ...copy];
 };
 
-console.log(solution([3, 8, 9, 7, 6], 3)); // [9, 7, 6, 3, 8]
-console.log(solution([0, 0, 0], 1)); // [0, 0, 0]
-console.log(solution([1, 2, 3, 4], 4)); // [1, 2, 3, 4]
-console.log(solution([1, 2, 3, 4], 5)); // [4, 1, 2, 3]
+module.exports = {
+  solution,
+};

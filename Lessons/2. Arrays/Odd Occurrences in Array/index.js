@@ -2,22 +2,22 @@ const solution = (a) => {
   const copy = [...a];
   const { length } = copy;
 
-  copy.sort((a, b) => a - b);
+  copy.sort((e1, e2) => e1 - e2);
 
   let index = 0;
 
   while (index < length) {
     const cur = copy[index];
     if (index >= length) return cur;
-    index++;
+    index += 1;
     const next = copy[index];
-    if (cur !== next) return cur
-    index++;
-  };
+    if (cur !== next) return cur;
+    index += 1;
+  }
 
   return 0;
 };
 
-console.log(solution([9, 3, 9, 3, 7, 9])); // 7
-console.log(solution([9, 3, 9, 3, 7, 9])); // 7
-console.log(solution([1])); // 1
+module.exports = {
+  solution,
+};

@@ -2,11 +2,11 @@ const solution = (a) => {
   const copy = [...a];
   const { length } = copy;
 
-  copy.sort((a, b) => a - b);
+  copy.sort((el1, el2) => el1 - el2);
 
   if (length === 0 || ![0, 1].includes(copy[0])) return 1;
 
-  for (let index = 1; index < length; index++) {
+  for (let index = 1; index < length; index += 1) {
     const expected = copy[index - 1] + 1;
     const cur = copy[index];
 
@@ -16,7 +16,6 @@ const solution = (a) => {
   return copy[length - 1] + 1;
 };
 
-console.log(solution([2, 3, 1, 5])); // 4
-console.log(solution([2])); // 1
-console.log(solution([])); // 1
-console.log(solution([3, 1])); // 2
+module.exports = {
+  solution,
+};
