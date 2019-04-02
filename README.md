@@ -1,5 +1,9 @@
 Resolutions of Lessons, Exams and Challenges referring to the site [Codility](https://app.codility.com/programmers/).
 
+---
+
+## Lessons
+
 ### 1. Iterations
 
 - [Binary Gap ✅](https://github.com/Sorackb/JSCodility/tree/master/Lessons/1.%20Iterations/Binary%20Gap);
@@ -14,3 +18,16 @@ Resolutions of Lessons, Exams and Challenges referring to the site [Codility](ht
 - [Frog Jump ✅](https://github.com/Sorackb/JSCodility/tree/master/Lessons/3.%20Time%20Complexity/Frog%20Jump);
 - [Perm Missing Element ✅](https://github.com/Sorackb/JSCodility/tree/master/Lessons/3.%20Time%20Complexity/Perm%20Missing%20Element);
 - [Tape Equilibrium](https://github.com/Sorackb/JSCodility/tree/master/Lessons/3.%20Time%20Complexity/Tape%20Equilibrium);
+
+### 4. Counting Elements
+
+- [Permutation Check ✅](https://github.com/Sorackb/JSCodility/tree/master/Lessons/4.%20Counting%20Elements/Permutation%20Check);
+- [Frog River One](https://github.com/Sorackb/JSCodility/tree/master/Lessons/4.%20Counting%20Elements/Frog%20River%20One);
+- [Maximum Counters](https://github.com/Sorackb/JSCodility/tree/master/Lessons/4.%20Counting%20Elements/Maximum%20Counters);
+- [Permutation Check](https://github.com/Sorackb/JSCodility/tree/master/Lessons/4.%20Counting%20Elements/Permutation%20Check);
+
+---
+
+## Challenges
+
+- [Company Employee](https://github.com/Sorackb/JSCodility/tree/master/Challenges/1.%20Company%20Employee);
