@@ -2,7 +2,7 @@
 const { solution } = require('./');
 
 const configure = (param, result) => {
-  test(`3. Time Complexity - Permutation Check - ${param} => ${result}`, () => {
+  test(`4. Counting Elements - Permutation Check - ${param} => ${result}`, () => {
     expect(solution(param)).toBe(result);
   });
 };
