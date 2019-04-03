@@ -16,7 +16,7 @@ Examples:
 
 3. Given A = [5, 5, 5], B = [5, 5, 5] and F = 1, the function should return 15. The 0th developer can be assigned to the front-end team and the 1st and 2nd developers can be assigned to the back-end team.
 
-Write an**efficient**algorithm for the following assumptions:
+Write an **efficient** algorithm for the following assumptions:
 
 - N is an integer within the range [1..200,000];
 - arrays A and B have equal lengths;

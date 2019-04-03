@@ -2,7 +2,7 @@
 const { solution } = require('./');
 
 const configure = (n, a, result) => {
-  test(`3. Time Complexity - Tape Equilibrium - N=${n} A=${a} => ${result}`, () => {
+  test(`4. Counting Elements - Maximum Counters - N=${n} A=${a} => ${result}`, () => {
     expect(solution(n, a)).toEqual(result);
   });
 };

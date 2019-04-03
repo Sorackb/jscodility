@@ -19,7 +19,7 @@ For example, given array A such that:
 
 the function should return 4, as it is the missing element.
 
-Write an**efficient**algorithm for the following assumptions:
+Write an **efficient** algorithm for the following assumptions:
 
 - N is an integer within the range [0..100,000];
 - the elements of A are all distinct;

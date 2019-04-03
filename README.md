@@ -22,8 +22,8 @@ Resolutions of Lessons, Exams and Challenges referring to the site [Codility](ht
 ### 4. Counting Elements
 
 - [Permutation Check ✔️](https://github.com/Sorackb/JSCodility/tree/master/Lessons/4.%20Counting%20Elements/Permutation%20Check)
-- [Frog River One](https://github.com/Sorackb/JSCodility/tree/master/Lessons/4.%20Counting%20Elements/Frog%20River%20One)
-- [Maximum Counters](https://github.com/Sorackb/JSCodility/tree/master/Lessons/4.%20Counting%20Elements/Maximum%20Counters)
+- [Frog River One ✔️](https://github.com/Sorackb/JSCodility/tree/master/Lessons/4.%20Counting%20Elements/Frog%20River%20One)
+- [Maximum Counters ✔️](https://github.com/Sorackb/JSCodility/tree/master/Lessons/4.%20Counting%20Elements/Maximum%20Counters)
 - [Missing Integer ✔️](https://github.com/Sorackb/JSCodility/tree/master/Lessons/4.%20Counting%20Elements/Missing%20Integer)
 
 ---
