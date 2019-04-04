@@ -26,6 +26,10 @@ Resolutions of Lessons, Exams and Challenges referring to the site [Codility](ht
 - [Maximum Counters ✔️](https://github.com/Sorackb/JSCodility/tree/master/Lessons/4.%20Counting%20Elements/Maximum%20Counters)
 - [Missing Integer ✔️](https://github.com/Sorackb/JSCodility/tree/master/Lessons/4.%20Counting%20Elements/Missing%20Integer)
 
+### 5. Prefix Sums
+
+- [Passing Cars](https://github.com/Sorackb/JSCodility/tree/master/Lessons/5.%Prefix%20Sums/Passing%20Cars)
+
 ---
 
 ## Challenges
