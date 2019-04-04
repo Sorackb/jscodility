@@ -28,7 +28,7 @@ Resolutions of Lessons, Exams and Challenges referring to the site [Codility](ht
 
 ### 5. Prefix Sums
 
-- [Passing Cars](https://github.com/Sorackb/JSCodility/tree/master/Lessons/5.%Prefix%20Sums/Passing%20Cars)
+- [Passing Cars ✔️](https://github.com/Sorackb/jscodility/tree/master/Lessons/5.%20Prefix%20Sums/Passing%20Cars)
 
 ---
 
