@@ -31,7 +31,11 @@ Resolutions of Lessons, Exams and Challenges referring to the site [Codility](ht
 - ✔️ [Passing Cars](https://github.com/Sorackb/jscodility/tree/master/Lessons/5.%20Prefix%20Sums/Passing%20Cars)
 - [Genomic Range Query](https://github.com/Sorackb/jscodility/tree/master/Lessons/5.%20Prefix%20Sums/Genomic%20Range%Query)
 - [Minimal Average Two Slice](https://github.com/Sorackb/jscodility/tree/master/Lessons/5.%20Prefix%20Sums/Minimal%20Average%20Two%20Slice)
-- [Count Divisible](https://github.com/Sorackb/jscodility/tree/master/Lessons/5.%20Prefix%20Sums/Count%20Divisible)
+- ✔️ [Count Divisible](https://github.com/Sorackb/jscodility/tree/master/Lessons/5.%20Prefix%20Sums/Count%20Divisible)
+
+### 6. Sorting
+
+- ✔️ [Distinct](https://github.com/Sorackb/jscodility/tree/master/Lessons/6.%20Sorting/Distinct)
 
 ---
 
