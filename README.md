@@ -45,5 +45,5 @@ Resolutions of Lessons, Exams and Challenges referring to the site [Codility](ht
 
 ---
 
--️✔️  - Implementation checked and tested
+- ✔️  - Implementation checked and tested
 - ❗️ - Needs verification
