@@ -1,7 +1,21 @@
 const solution = (a, b, f) => {
+  const diff = a.map((value, index) => ({
+    a: value,
+    b: b[index],
+    i: index,
+    diff: value - b[index],
+  }));
 
+  diff.sort((el1, el2) => el2.diff - el1.diff);
+
+  const contribA = diff.slice(0, f);
+  const contribB = diff.slice(f, a.length);
+  const sumA = contribA.reduce((sum, item) => sum + item.a, 0);
+  const sumB = contribB.reduce((sum, item) => sum + item.b, 0);
+
+  return sumA + sumB;
 };
 
-console.log(solution([4, 2, 1], [2, 5, 3], 2)); // 10
-console.log(solution([7, 1, 4, 4], [5, 3, 4, 3], 2)); // 18
-console.log(solution([5, 5, 5], [5, 5, 5], 1)); // 15
+module.exports = {
+  solution,
+};

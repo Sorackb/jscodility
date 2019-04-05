@@ -42,7 +42,7 @@ Resolutions of Lessons, Exams and Challenges referring to the site [Codility](ht
 
 ## Challenges
 
-- [Company Employee](https://github.com/Sorackb/JSCodility/tree/master/Challenges/1.%20Company%20Employee)
+- ✔️ [Company Employee](https://github.com/Sorackb/JSCodility/tree/master/Challenges/1.%20Company%20Employee)
 
 ---
 
