@@ -36,6 +36,8 @@ Resolutions of Lessons, Exams and Challenges referring to the site [Codility](ht
 ### 6. Sorting
 
 - ✔️ [Distinct](https://github.com/Sorackb/jscodility/tree/master/Lessons/6.%20Sorting/Distinct)
+- [Maximal Product of Three](https://github.com/Sorackb/jscodility/tree/master/Lessons/6.%20Sorting/Maximal%20Product%20of%20Three)
+- [Number of Disc Intersections](https://github.com/Sorackb/jscodility/tree/master/Lessons/6.%20Sorting/Number%20of%20Disc%20Intersections)
 - [Triangle](https://github.com/Sorackb/jscodility/tree/master/Lessons/6.%20Sorting/Triangle)
 
 ---
