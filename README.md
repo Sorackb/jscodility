@@ -1,3 +1,13 @@
+# jscodility
+
+[![Build Status][ci-img]][ci]
+[![Coverage Status][coveralls-img]][coveralls]
+
+[ci-img]:          https://travis-ci.org/Sorackb/jscodility.svg
+[ci]:              https://travis-ci.org/Sorackb/jscodility
+[coveralls-img]:   https://coveralls.io/repos/github/Sorackb/jscodility/badge.svg?branch=master
+[coveralls]:       https://coveralls.io/github/Sorackb/jscodility?branch=master
+
 Resolutions of Lessons, Exams and Challenges referring to the site [Codility](https://app.codility.com/programmers/).
 
 ---
