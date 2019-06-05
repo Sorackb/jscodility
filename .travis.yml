@@ -1,9 +1,14 @@
+sudo: false
 language: node_js
 node_js:
-  - 'lts/*'
   - 'node'
-  - '8'
+
+cache:
+  directories:
+    - node_modules
 
 before_install: npm update
 install: npm install
-after_success: npm run coveralls
+script:
+  - npm test
+  - npm run coveralls
