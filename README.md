@@ -45,8 +45,10 @@ Resolutions of Lessons, Exams and Challenges referring to the site [Codility](ht
 ## Challenges
 
 - ✔️ [Company Employee](https://github.com/Sorackb/JSCodility/tree/master/Challenges/1.%20Company%20Employee)
+- [Matrix](https://github.com/Sorackb/JSCodility/tree/master/Challenges/2.%20Matrix)
 
 ---
 
-- ✔️  - Implementation checked and tested
+- ✔️ - Implementation checked and tested
+- ❌ - Not implemented
 - ❗️ - Needs verification
