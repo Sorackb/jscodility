@@ -14,8 +14,6 @@ const solution = (a) => {
     if (cur !== next) return cur;
     index += 1;
   }
-
-  return 0;
 };
 
 module.exports = {
